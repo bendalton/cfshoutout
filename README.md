@@ -1,6 +1,8 @@
 About
 ========================
 
+Checkout a video demo here: http://www.screencast.com/t/3caXuCZbch
+
 *CFShoutout* is an example application that utilizes some of the new Adobe ColdFusion 10 features.
 
 Some of these include:
@@ -33,21 +35,19 @@ The content included in this project is free-to-use for any purpose you feel fit
 
 Portions of this project can be attributed to:
 
-Twitter Bootstrap Project
-http://twitter.github.com/bootstrap/
+Twitter Bootstrap Project - http://twitter.github.com/bootstrap/
 Code licensed under the Apache License v2.0. Documentation licensed under CC BY 3.0.
 Icons from Glyphicons Free, licensed under CC BY 3.0.
 
-ESRI JavaScript API
-http://help.arcgis.com/en/webapi/javascript/arcgis/
-License Agreement: http://help.arcgis.com/en/webapi/javascript/arcgis/help/jshelp_termsofuse.htm
+ESRI JavaScript API - http://help.arcgis.com/en/webapi/javascript/arcgis/
 
-Bootswatch.com "Superhero" Twitter Bootstrap Theme
-http://bootswatch.com/
+ESRI JS License Agreement - http://help.arcgis.com/en/webapi/javascript/arcgis/help/jshelp_termsofuse.htm
+
+Bootswatch.com "Superhero" Twitter Bootstrap Theme - http://bootswatch.com/
 
 Insipration and examples were drawn from:
-http://blog.dkferguson.com/index.cfm/2012/2/17/ColdFusion-10-WebSockets-Demo-App
-http://www.boyzoid.com/blog/index.cfm/2012/2/17/ColdFusion-10--ORM-Search
-http://www.anujgakhar.com/2012/02/20/using-rest-services-in-coldfusion-10/
+*   http://blog.dkferguson.com/index.cfm/2012/2/17/ColdFusion-10-WebSockets-Demo-App
+*   http://www.boyzoid.com/blog/index.cfm/2012/2/17/ColdFusion-10--ORM-Search
+*   http://www.anujgakhar.com/2012/02/20/using-rest-services-in-coldfusion-10/
 
 
